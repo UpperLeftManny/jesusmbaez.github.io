@@ -1,11 +1,11 @@
 # Site settings
-author: Jesus "Manny" Baez
-title: 
+author: Manny Baez 
+title: Code Red
 header-img: img/home-bg.png
 email: jesusmbaez@gmail.com
-copyright_name: Jesus "Manny" Baez
+copyright_name: Manny Baez 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  From RN to Software Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: thebeatsalive
 github_username:  jesusmbaez
